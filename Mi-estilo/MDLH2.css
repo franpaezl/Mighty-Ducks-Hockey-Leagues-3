@@ -197,28 +197,28 @@
   
   .abcd {
     list-style-type: lower-alpha;
-    padding-left: 20px; /* Añadido para espaciar los items */
+    padding-left: 20px; 
   }
   
   .abcd li {
-    margin-left: 0; /* Ajusta el margen izquierdo para que no se pegue al borde */
+    margin-left: 0; 
   }
   
   .itemblanco {
     list-style-type: disc;
-    padding-left: 20px; /* Añadido para espaciar los items */
+    padding-left: 20px; 
   }
   
   .itemblanco li {
-    margin-left: 0; /* Ajusta el margen izquierdo para que no se pegue al borde */
+    margin-left: 0; 
   }
   
   .contenido__section__articulos ol, .contenido__section__articulos ul {
-    padding-left: 20px; /* Ajusta este valor para espaciar las listas del borde */
+    padding-left: 20px;
   }
   
   .contenido__section__articulos li {
-    margin-left: 0; /* Asegúrate de que no haya margen adicional en los items */
+    margin-left: 0; 
   }
   
 
